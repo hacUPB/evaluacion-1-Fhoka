@@ -28,3 +28,5 @@ for details.
 Clone el repositorio de la evaluacion en mi computador, modifique el codigo del archivo wcat.c e hice un commmit para subir los cambios al repositorio.
 
 ![Imagen](https://github.com/hacUPB/evaluacion-1-Fhoka/blob/main/gato.jpg)
+
+[Google](https://www.notion.so/P-gina-principal-d1806d0b626347f4aa90a17b56807004)
