@@ -29,7 +29,7 @@ Clone el repositorio de la evaluacion en mi computador, modifique el codigo del 
 
 ![Imagen](https://github.com/hacUPB/evaluacion-1-Fhoka/blob/main/gato.jpg)
 
-[Google](https://www.notion.so/P-gina-principal-d1806d0b626347f4aa90a17b56807004)
+[Notion Sistemas Computacionales](https://www.notion.so/P-gina-principal-d1806d0b626347f4aa90a17b56807004)
 
 1. Clonar el repositorio: git clone link del repositorio en github
 2. Adicionar archivo wcat.c: git add .
